@@ -1,0 +1,13 @@
+{
+  "name": "DiceBot",
+  "version": "1.0.0",
+  "description": "DiceBot",
+  "main": "bot2.js",
+  "author": "Double",
+  "dependencies": {
+    "apt": "0.0.2",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "git": "^0.1.5",
+    "winston": "^3.2.1"
+  }
+}
